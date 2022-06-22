@@ -2,28 +2,28 @@ public class questions {
 
     public static String[] questionsList = new String[10];
     public static void getQuestionsList(){
-        questionsList[0] = "Qual a sua idade?";
-        questionsList[1] = "100 + 100?";
-        questionsList[2] = "Pergunta teste?";
-        questionsList[3] = "";
-        questionsList[4] = "";
-        questionsList[5] = "";
-        questionsList[6] = "";
-        questionsList[7] = "";
-        questionsList[8] = "";
-        questionsList[9] = "";
+        questionsList[0] = "Qual era a forma de governo em Atenas?";
+        questionsList[1] = "Os jogos olimpicos foram criados para homenagear qual deus grego?";
+        questionsList[2] = "Eparta, a cidade-Estado grega, tinha uma forma de governo em que poucas pessoas participavam. Qual a forma de governo?";
+        questionsList[3] = "Na mitoligia grega, quem era o deus dos deuses?";
+        questionsList[4] = "Segundo a Mitologia Grega, quem era a deusa da guerra, justiça e sabedoria?";
+        questionsList[5] = "Como se chamava o filho de Zeus e Alcmena?";
+        questionsList[6] = "Originalmente, quantas cabeças tinha Hidra?";
+        questionsList[7] = "Quem venceu a Guerra do Peloponeso? Atenas ou Esparta?";
+        questionsList[8] = "Quem era a deusa do amor?";
+        questionsList[9] = "Hestia era adorada pelos gregos pois representava proteção. Verdadeiro ou Falso?";
     };
     public static String[] answersList = new String[10];
     public static void getAnswersList() {
-    	answersList[0] = "17";
-    	answersList[1] = "200";
-    	answersList[2] = "Sim";
-    	answersList[3] = "";
-    	answersList[4] = "";
-    	answersList[5] = "";
-    	answersList[6] = "";
-    	answersList[7] = "";
-    	answersList[8] = "";
-    	answersList[9] = "";
+    	answersList[0] = "democracia";
+    	answersList[1] = "zeus";
+    	answersList[2] = "oligarquia";
+    	answersList[3] = "zeus";
+    	answersList[4] = "atena";
+    	answersList[5] = "hercules";
+    	answersList[6] = "9";
+    	answersList[7] = "esparta";
+    	answersList[8] = "eros";
+    	answersList[9] = "verdadeiro";
     }
 }
